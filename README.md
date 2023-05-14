@@ -1,5 +1,7 @@
 # Profit-Maximization-in-Reliability-Aware-and-Deadline-Guaranteed-Cloud-Storage-Systems
 
+BTP Phase-2 Latex.zip contains all source latex code as well as all teh graphs and figures added in the report.
+
 Instructions for CPP files
 
 1. Change tracepath according to where files are stored in your pc and also on which data you have to run Netflix or Spotify, comment out the code for the other one. 
