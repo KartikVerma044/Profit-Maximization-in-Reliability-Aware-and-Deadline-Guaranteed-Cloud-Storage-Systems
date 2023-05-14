@@ -1,0 +1,6 @@
+,Approach,Successs Rate,Profit
+0,Lowest Cost First,0.815024,187.12
+1,Max Available Service Capacity First,0.860139,196.76
+2,First Fit,0.850853,194.07
+3,Random,0.862008,197.12
+4,Max Reliability First,0.866172,198.0

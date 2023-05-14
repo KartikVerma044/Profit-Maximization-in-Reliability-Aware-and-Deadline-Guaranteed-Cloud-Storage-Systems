@@ -1,0 +1,26 @@
+,Approach,Reliability,Successs Rate,Profit per Request,Profit
+0,Lowest Cost First,10,0.671271,,532.72
+1,Lowest Cost First,30,0.709448,,1027.05
+2,Lowest Cost First,50,0.7488653333333333,,1368.74
+3,Lowest Cost First,70,0.860302,,1535.71
+4,Lowest Cost First,90,0.974975,,2010.27
+5,Max Available Service Capacity First,10,0.627913,,533.03
+6,Max Available Service Capacity First,30,0.665989,,1078.64
+7,Max Available Service Capacity First,50,0.7358733333333334,,1510.71
+8,Max Available Service Capacity First,70,0.886067,,1558.71
+9,Max Available Service Capacity First,90,0.958544,,2084.97
+10,First Fit,10,0.642928,,502.57
+11,First Fit,30,0.764869,,1107.9
+12,First Fit,50,0.7306699999999999,,1503.94
+13,First Fit,70,0.887501,,1596.51
+14,First Fit,90,0.964136,,2053.63
+15,Random,10,0.697813,,564.75
+16,Random,30,0.695784,,1035.54
+17,Random,50,0.7150266666666667,,1424.1
+18,Random,70,0.900891,,1617.56
+19,Random,90,0.96962,,2072.26
+20,Max Reliability First,10,0.75015,,612.25
+21,Max Reliability First,30,0.840043,,1169.93
+22,Max Reliability First,50,0.7413806666666667,,1556.15
+23,Max Reliability First,70,0.923217,,1662.28
+24,Max Reliability First,90,0.985749,,2086.59
