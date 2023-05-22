@@ -1,6 +1,6 @@
 # Profit-Maximization-in-Reliability-Aware-and-Deadline-Guaranteed-Cloud-Storage-Systems
 
-BTP Phase-2 Latex.zip contains all source latex code as well as all teh graphs and figures added in the report.
+BTP Phase-2 Latex.zip contains all source latex code as well as all the graphs and figures added in the report.
 
 Instructions for CPP files
 
